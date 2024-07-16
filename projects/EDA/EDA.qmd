@@ -1,0 +1,21 @@
+---
+title: "WNBA EDA Project"
+description: "EDA Project utilizing descriptive analytics to analyze 2023 WNBA shooting statistics for SURE 2024 at CMU"
+date: June 16 2024
+about:
+  template: jolla
+  image: cover.jpeg
+  image-shape: round
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/colesheegs/WNBA-EDA-Project
+      target: _blank
+    - text: Slides
+      icon: file-slides
+      href: https://docs.google.com/presentation/d/1_1x_YtSZJGayjbqQrRSovPsJ_z3kGCAPemvePHi2UAQ/edit#slide=id.g2e5d72eebd7_0_930
+      target: _blank
+      
+---
+
+Insert description down here

@@ -1,0 +1,21 @@
+---
+title: "Cole Shegan Siniawski"
+about:
+  template: jolla
+  image: assets/IMG_0094.jpeg
+  image-shape: round
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:colethestar@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/colesheegs
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cole-shegan-siniawski/
+      target: _blank
+---
+
+Welcome to my website! I am 3rd year undergraduate at Denison University, majoring in Data Analytics and Economics. I'm interested in hockey and sports analytics.

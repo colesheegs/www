@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Cole Shegan Siniawski"
+  navbar:
+    background: "#E51636"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cole-shegan-siniawski/
+        target: _blank
+      - icon: github
+        href: https://github.com/colesheegs
+        target: _blank
+      - icon: file-pdf
+        href: assets/6_12_2024 Resume copy.pdf
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
+
+

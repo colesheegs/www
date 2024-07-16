@@ -1,0 +1,31 @@
+---
+title: "Capstone"
+description: "Capstone Project on creating a consistency metric to measure different types of consistency among NHL players for SURE 2024 at CMU"
+date: July 26 2024
+about:
+  template: jolla
+  image: cover.jpeg
+  image-shape: round
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/CelineS138/Penguins-Capstone-Project
+      target: _blank
+    - text: Slides
+      icon: file-slides
+      href: https://docs.google.com/presentation/d/1na43rSBu2vsNtTJ2_THwxhYpCB9XP5QXp139Fggfclo/edit#slide=id.p
+      target: _blank
+    - text: Poster
+      icon: file-earmark-post
+      target: _blank
+    - text: Report
+      icon: pencil
+      href: https://docs.google.com/document/d/1hvbXEDcqNYjJiblc4MNdg00eH00e_Lq_BQbTdiSo8To/edit
+      target: _blank
+      
+---
+
+Insert description down here
+
+
+
