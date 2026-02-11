@@ -1,7 +1,7 @@
 ---
-title: "Capstone"
-description: "Capstone Project on creating a consistency metric to measure different types of consistency among NHL players for SURE 2024 at CMU"
-date: July 26 2024
+title: "Senior Data Analytics Capstone Project"
+description: "Capstone Project on creating a consistency metric to measure different types of consistency among NHL players for my senior research project at Denison University"
+date: December 18 2025
 about:
   template: jolla
   image: cover.jpeg
@@ -9,18 +9,19 @@ about:
   links: 
     - icon: github
       text: "GitHub"
-      href: https://github.com/CelineS138/Penguins-Capstone-Project
+      href: https://github.com/colesheegs/Analyzing-Value-of-Consistency-Among-NHL-Players
       target: _blank
-    - text: Slides
-      icon: file-slides
-      href: https://docs.google.com/presentation/d/1na43rSBu2vsNtTJ2_THwxhYpCB9XP5QXp139Fggfclo/edit#slide=id.p
-      target: _blank
-    - text: Poster
+    # - text: Slides
+    #   icon: file-slides
+    #   href: https://docs.google.com/presentation/d/1na43rSBu2vsNtTJ2_THwxhYpCB9XP5QXp139Fggfclo/edit#slide=id.p
+    #   target: _blank
+    - text: "Poster"
       icon: file-earmark-post
+      href: Poster.pdf
       target: _blank
-    - text: Report
+    - text: "Report"
       icon: pencil
-      href: https://docs.google.com/document/d/1hvbXEDcqNYjJiblc4MNdg00eH00e_Lq_BQbTdiSo8To/edit
+      href: Final Draft.pdf
       target: _blank
       
 ---
