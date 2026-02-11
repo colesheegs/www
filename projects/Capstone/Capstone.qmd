@@ -17,12 +17,10 @@ about:
     #   target: _blank
     - text: "Poster"
       icon: file-earmark-post
-      href: Poster.pdf
-      target: _blank
+      href: assets/Poster.pdf
     - text: "Report"
       icon: pencil
-      href: Final Draft.pdf
-      target: _blank
+      href: assets/Final Draft.pdf
       
 ---
 
